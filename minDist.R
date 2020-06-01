@@ -1,5 +1,4 @@
 minDist = function(gpsAddr, nccAddr, csvAddr, sring){
-  #mesh4_Main3 is faster than mesh4_Main4!!!
   t1 <- Sys.time()
   #include MinDist function
   source("E:\\rf\\NCC\\Fun_MinDistv1.R")
